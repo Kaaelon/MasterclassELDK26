@@ -15,7 +15,7 @@ There are several options for bringing your own tenant, these are the most commo
 
 Detailed instructions in the next sub-sections:
 
-### Onw Company Dev/Test environments
+### Own Company Dev/Test environments
 
 If you are part of a Company or Organization and have a work account, you can use that as a starting point for your own lab environment. We do not recommend using your production tenant for following the labs, so you should either have access to a test/dev/demo tenant or have the opportunity to create another tenant.
 
